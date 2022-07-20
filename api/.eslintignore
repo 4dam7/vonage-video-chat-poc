@@ -1,0 +1,13 @@
+build
+manifests
+scripts
+node_modules
+
+.lintstagedrc.js
+.eslintrc.json
+.prettierignore
+.prettierrc
+package.json
+*.js
+*.html
+
